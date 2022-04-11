@@ -1,3 +1,3 @@
 # Go REST Api Template
 
-Dockerized template go API.
+Dockerized Go REST Api template.
