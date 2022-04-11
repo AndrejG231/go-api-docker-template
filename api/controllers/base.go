@@ -10,7 +10,7 @@ import (
 
 	_ "github.com/jinzhu/gorm/dialects/postgres" //postgres database driver
 
-	"github.com/AndrejG231/quickcoder-2-api/api/models"
+	"github.com/AndrejG231/go-api-docker-template/api/models"
 )
 
 type Server struct {

@@ -1,4 +1,4 @@
-module github.com/AndrejG231/quickcoder-2-api
+module github.com/AndrejG231/go-api-docker-template
 
 go 1.17
 

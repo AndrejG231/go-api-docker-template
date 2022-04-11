@@ -1,6 +1,6 @@
 package controllers
 
-import "github.com/AndrejG231/quickcoder-2-api/api/middlewares"
+import "github.com/AndrejG231/go-api-docker-template/api/middlewares"
 
 func (s *Server) initializeRoutes() {
 

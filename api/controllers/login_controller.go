@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/AndrejG231/quickcoder-2-api/api/auth"
-	"github.com/AndrejG231/quickcoder-2-api/api/models"
-	"github.com/AndrejG231/quickcoder-2-api/api/responses"
-	"github.com/AndrejG231/quickcoder-2-api/api/utils/formaterror"
+	"github.com/AndrejG231/go-api-docker-template/api/auth"
+	"github.com/AndrejG231/go-api-docker-template/api/models"
+	"github.com/AndrejG231/go-api-docker-template/api/responses"
+	"github.com/AndrejG231/go-api-docker-template/api/utils/formaterror"
 	"golang.org/x/crypto/bcrypt"
 )
 

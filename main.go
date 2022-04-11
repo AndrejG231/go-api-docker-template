@@ -1,6 +1,6 @@
 package main
 
-import "github.com/AndrejG231/quickcoder-2-api/api"
+import "github.com/AndrejG231/go-api-docker-template/api"
 
 func main() {
 	api.Run()

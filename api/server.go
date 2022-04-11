@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/AndrejG231/quickcoder-2-api/api/controllers"
-	"github.com/AndrejG231/quickcoder-2-api/api/seed"
+	"github.com/AndrejG231/go-api-docker-template/api/controllers"
+	"github.com/AndrejG231/go-api-docker-template/api/seed"
 	"github.com/joho/godotenv"
 )
 

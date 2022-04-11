@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/AndrejG231/quickcoder-2-api/api/responses"
+	"github.com/AndrejG231/go-api-docker-template/api/responses"
 )
 
 func (server *Server) Home(w http.ResponseWriter, r *http.Request) {
